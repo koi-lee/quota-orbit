@@ -58,7 +58,7 @@ These240×320 images are rendered by the firmware's native LVGL harness, not har
 
 ## Setup and controls
 
-1. Install community firmware; this replaces the current play and may clear settings. Join the device's displayed Starshore-… hotspot with its displayed password. Open http://192.168.4.1, enter2.4GHz Wi-Fi and save. 已同步·公开消息 confirms success. Retry the form on failure; after timeout or to change networks, hold Confirm and select Settings > Wi-Fi setup.
+1. Install community firmware; this replaces the current play and may clear settings. Join the device's displayed Starshore-… hotspot with its displayed password. Open [http://192.168.4.1](http://192.168.4.1), enter2.4GHz Wi-Fi and save. 已同步·公开消息 confirms success. Retry the form on failure; after timeout or to change networks, hold Confirm and select Settings > Wi-Fi setup.
 2. Up/Down switches Home/Letter/Character. Confirm on Home opens Letter, and on Letter opens the WeChat mini-program code; Confirm returns. Tap Confirm on Character for stars; hold for Settings.
 3. Sound defaults off. Enabling previews tap/forecast/completion cues. Public data is polled about every five minutes. Fresh new forecasts or completion notices may sound once; first sync, duplicate and old notices are silent.
 4. Optional personal quota: sign in to Codex on the Mac, launch the companion and use the same Wi-Fi. Connect USB, click Connect device on the Mac first, wait for hardware boot, select Connect Mac on hardware and approve. Click Start sync; once quota appears, USB can be removed. Keep the Mac awake and the helper running. Pause/Quit stops pushes; revoke pairing on hardware.
