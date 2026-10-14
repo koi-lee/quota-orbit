@@ -14,6 +14,17 @@ The desktop companion displays personal quota and public reset announcements. An
 
 The corresponding AGPL-3.0 source is the `v1.3.6` tag. Verify the installer with the Release SHA256SUMS.txt. Server, website, browser extension and developer credentials are not included. Legacy v1.1.3 and earlier tags retain their MIT license and are discontinued.
 
+## Choose the right download
+
+| Goal | Product | Download |
+|---|---|---|
+| View Codex quota with a Mac desktop pet/menu bar | **Main Quota Orbit Mac client**, no Passport required | [Latest stable](https://github.com/koi-lee/quota-orbit/releases/latest) |
+| Send Mac quota to Passport hardware | **Passport Mac helper**, separate from the main client | [Helper preview0.2.0](https://github.com/koi-lee/quota-orbit/releases/tag/passport-helper-v0.2.0) |
+| Install a play on AI Passport hardware | **Device firmware**, not a Mac installer | [Community installation](https://ai-passport.folotoy.cn/plays/1250/) |
+
+[Passport illustrated guide and flows](docs/ai-passport/README_EN.md). Helper tags use passport-helper-* and Pre-release, never Latest. Automatic GitHub Source code archives contain the Mac client, not Passport firmware source.
+
+
 ## Local build
 
 With Xcode Command Line Tools and Swift 5.9+, run `swift test --disable-sandbox` then `./build-local.sh`. This produces an ad-hoc signed local app using a separate bundle ID. Set CODEX_BUILD_DIR to a fresh output path for another build.

@@ -4,6 +4,17 @@ macOS 桌宠与菜单栏工具：查看 Codex 个人额度，关注公开重置�
 
 [English](README_EN.md) · [额度星盘网站](https://www.starshoreai.com/quota-orbit/) · [安装与首次使用](docs/INSTALL.md)
 
+## 先选对下载
+
+| 你想做什么 | 需要哪个 | 下载与说明 |
+|---|---|---|
+| 在Mac上用桌宠/菜单栏查看Codex额度 | **Quota Orbit Mac主客户端**，不需要Passport | [最新正式版](https://github.com/koi-lee/quota-orbit/releases/latest) |
+| 把Mac额度同步到AI Passport | **Passport Mac同步助手**，不是主客户端更新 | [助手预发布0.2.0](https://github.com/koi-lee/quota-orbit/releases/tag/passport-helper-v0.2.0) |
+| 给AI Passport硬件安装玩法 | **设备固件**，不是Mac安装包 | [社区安装](https://ai-passport.folotoy.cn/plays/1250/) |
+
+[Passport页面、状态和配网／同步流程图](docs/ai-passport/README.md)。助手标签使用passport-helper-*、标为Pre-release、不设Latest。GitHub的自动Source code归档是Mac客户端源码，不是Passport固件源码。
+
+
 ## 装到桌面后是什么样？
 
 一个陪在桌面上的阅读小人，配合可展开的星盘，帮你看 Codex 还剩多少额度、什么时候恢复。它是独立的 macOS App。
