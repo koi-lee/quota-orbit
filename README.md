@@ -9,10 +9,10 @@ macOS 桌宠与菜单栏工具：查看 Codex 个人额度，关注公开重置�
 | 你想做什么 | 需要哪个 | 下载与说明 |
 |---|---|---|
 | 在Mac上用桌宠/菜单栏查看Codex额度 | **Quota Orbit Mac主客户端**，不需要Passport | [最新正式版](https://github.com/koi-lee/quota-orbit/releases/latest) |
-| 把 Mac 上的 Codex 个人额度同步到 AI Passport | **Passport Mac 同步助手**，独立于 Quota Orbit 主客户端 | [预发布 0.3.0（Apple 芯片）](https://github.com/koi-lee/quota-orbit/releases/tag/passport-helper-v0.3.0) · [简体中文说明](https://github.com/koi-lee/quota-orbit/releases/download/passport-helper-v0.3.0/README.zh_CN.md) · [繁體中文](https://github.com/koi-lee/quota-orbit/releases/download/passport-helper-v0.3.0/README.zh_TW.md) · [English](https://github.com/koi-lee/quota-orbit/releases/download/passport-helper-v0.3.0/README.en.md) |
+| 把 Mac 上的 Codex 个人额度同步到 AI Passport | **Passport Mac 同步助手**，独立于 Quota Orbit 主客户端 | [预发布 0.3.0（Apple 芯片）](https://github.com/koi-lee/quota-orbit-aipassport/releases/tag/passport-helper-v0.3.0) · [简体中文说明](https://github.com/koi-lee/quota-orbit-aipassport/releases/download/passport-helper-v0.3.0/README.zh_CN.md) · [繁體中文](https://github.com/koi-lee/quota-orbit-aipassport/releases/download/passport-helper-v0.3.0/README.zh_TW.md) · [English](https://github.com/koi-lee/quota-orbit-aipassport/releases/download/passport-helper-v0.3.0/README.en.md) |
 | 给AI Passport硬件安装玩法 | **设备固件**，不是Mac安装包 | [社区安装](https://ai-passport.folotoy.cn/plays/1250/) |
 
-[Passport页面、状态和配网／同步流程图](docs/ai-passport/README.md)。助手标签使用passport-helper-*、标为Pre-release、不设Latest。GitHub的自动Source code归档是Mac客户端源码，不是Passport固件源码。
+[AI Passport固件、设备说明和Passport Mac同步助手源码](https://github.com/koi-lee/quota-orbit-aipassport)。GitHub自动Source code归档对应当前仓库的Mac主客户端源码；Passport设备源码与社区安装入口请看独立仓库及社区页面。助手标签使用passport-helper-*、标为Pre-release，不影响Mac主客户端的Latest。
 
 
 ## 装到桌面后是什么样？
