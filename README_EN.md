@@ -19,7 +19,7 @@ The corresponding AGPL-3.0 source is the `v1.3.6` tag. Verify the installer with
 | Goal | Product | Download |
 |---|---|---|
 | View Codex quota with a Mac desktop pet/menu bar | **Main Quota Orbit Mac client**, no Passport required | [Latest stable](https://github.com/koi-lee/quota-orbit/releases/latest) |
-| Send Mac quota to Passport hardware | **Passport Mac helper**, separate from the main client | [Helper preview0.2.0](https://github.com/koi-lee/quota-orbit/releases/tag/passport-helper-v0.2.0) |
+| Sync Codex personal quota from Mac to AI Passport | **Passport Mac Sync Assistant**, separate from the Quota Orbit desktop app | [0.3.0 pre-release (Apple silicon)](https://github.com/koi-lee/quota-orbit/releases/tag/passport-helper-v0.3.0) · [简体中文](https://github.com/koi-lee/quota-orbit/releases/download/passport-helper-v0.3.0/README.zh_CN.md) · [繁體中文](https://github.com/koi-lee/quota-orbit/releases/download/passport-helper-v0.3.0/README.zh_TW.md) · [English](https://github.com/koi-lee/quota-orbit/releases/download/passport-helper-v0.3.0/README.en.md) |
 | Install a play on AI Passport hardware | **Device firmware**, not a Mac installer | [Community installation](https://ai-passport.folotoy.cn/plays/1250/) |
 
 [Passport illustrated guide and flows](docs/ai-passport/README_EN.md). Helper tags use passport-helper-* and Pre-release, never Latest. Automatic GitHub Source code archives contain the Mac client, not Passport firmware source.
