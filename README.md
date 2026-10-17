@@ -12,6 +12,16 @@
 
 [下载 Mac 公开试用版](https://github.com/koi-lee/quota-orbit/releases/latest) · [安装与首次使用](docs/INSTALL.md) · [额度星盘网站](https://www.starshoreai.com/quota-orbit/) · [English](README_EN.md)
 
+## 公开重置使用指南
+
+- [个人额度恢复与公开重置有什么区别？](https://www.starshoreai.com/quota-orbit/codex-quota-reset.html)
+- [怎样订阅 Codex 公开重置提醒](https://www.starshoreai.com/quota-orbit/codex-reset-alerts.html)
+- [把公开消息接入工具：HTTP API、RSS 与 MCP](https://www.starshoreai.com/quota-orbit/codex-reset-api.html)
+
+[全部指南](https://www.starshoreai.com/quota-orbit/guides.html) · [繁體中文](https://www.starshoreai.com/quota-orbit/guides.zh-TW.html) · [English](https://www.starshoreai.com/quota-orbit/guides.en.html) · [日本語](https://www.starshoreai.com/quota-orbit/guides.ja.html) · [한국어](https://www.starshoreai.com/quota-orbit/guides.ko.html)
+
+网页指南说明公开消息与提醒；个人额度仍需在自己的账号或符合条件的 Mac 客户端中查看。
+
 ## 在桌面上查看额度与消息
 
 一个陪在桌面上的阅读小人，配合可展开的星盘，帮你看 Codex 还剩多少额度、什么时候恢复。它是独立的 macOS App。

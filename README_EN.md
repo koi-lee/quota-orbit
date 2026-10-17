@@ -10,7 +10,17 @@ Quota Orbit puts this information within reach through a desktop companion and m
 
 Click the companion to expand the orbit, or check the menu bar. Personal quota requires Codex CLI installed and signed in locally. A public announcement does not mean your personal quota has recovered.
 
-[Download the Mac public trial](https://github.com/koi-lee/quota-orbit/releases/latest) · [Installation and first use](docs/INSTALL_EN.md) · [Website](https://www.starshoreai.com/quota-orbit/) · [简体中文](README.md)
+[Download the Mac public trial](https://github.com/koi-lee/quota-orbit/releases/latest) · [Installation and first use](docs/INSTALL_EN.md) · [Website](https://www.starshoreai.com/quota-orbit/en.html) · [简体中文](README.md)
+
+## Public reset guides
+
+- [Personal quota and public resets explained](https://www.starshoreai.com/quota-orbit/codex-quota-reset.en.html)
+- [Subscribe to Codex public reset alerts](https://www.starshoreai.com/quota-orbit/codex-reset-alerts.en.html)
+- [Connect public updates to your tools: HTTP API, RSS and MCP](https://www.starshoreai.com/quota-orbit/codex-reset-api.en.html)
+
+[All guides](https://www.starshoreai.com/quota-orbit/guides.en.html)
+
+These web guides cover public announcements and alerts. Check personal quota in your own account or a Mac client with the required local setup.
 
 ## Quota and messages on your desktop
 
